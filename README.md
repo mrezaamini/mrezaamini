@@ -2,13 +2,10 @@
 Currently a Computer Engineering Student in Shahid Beheshti University
 
 ## Latest Repositories ✍🏻:
+-[Image Filtering using 2D-convolution](https://github.com/mrezaamini/Image-Filtering-using-2D-convolution)
+
 -[CCNA example projects for Network-Lab course](https://github.com/mrezaamini/CCNA-exampleProjects-NetworkLabCourse)
-
--[VHDL elevator controller FSM](https://mrezaamini.github.io/Elevator-controller-FSM/)
-
--[VHDL Serial Adder](https://mrezaamini.github.io/Serial-Adder/)
 
 -[TETRIS assembly 8086](https://github.com/mrezaamini/Tetris-8086Assembly)
 
--[Grid Coloring Photoshop Script](https://github.com/mrezaamini/GridColoring-PhotoshopScript)
 

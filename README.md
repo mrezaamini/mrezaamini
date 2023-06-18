@@ -1,5 +1,5 @@
 ### Hi, I'm Mohammadreza Amini 👋
-Currently a Computer Engineering Student in Shahid Beheshti University
+BSc Computer Engineering @ Shahid Beheshti University
 
 ## Latest Repositories ✍🏻:
 -[Image Filtering using 2D-convolution](https://github.com/mrezaamini/Image-Filtering-using-2D-convolution)

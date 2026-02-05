@@ -1,5 +1,5 @@
 ### Hi, I'm Mohammadreza Amini 👋
-CS Master's Student @ Concordia University
+CS PhD Candidate @ Concordia University
 
 ## Latest Repositories ✍🏻:
 -[React Bootcamp](https://github.com/mrezaamini/React-Bootcamp)
